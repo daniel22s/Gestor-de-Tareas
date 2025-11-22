@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdc94cae-2556-49eb-8e9b-e7863bc5978f" name="Changes" comment="-Creando proyecto&#10;-Creando app&#10;-Creando app/urls.py">
-      <change beforePath="$PROJECT_DIR$/Proyecto/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/urls.py" afterDir="false" />
+    <list default="true" id="cdc94cae-2556-49eb-8e9b-e7863bc5978f" name="Changes" comment="Definiendo Url">
+      <change afterPath="$PROJECT_DIR$/task_manage/templates/tasks_manage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_manage/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_manage/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_manage/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_manage/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +18,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "daniel22s"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/daniel22s/Gestor-de-Tareas",
@@ -38,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -70,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763771613178</updated>
-      <workItem from="1763771614290" duration="918000" />
+      <workItem from="1763771614290" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="-Creando proyecto&#10;-Creando app&#10;-Creando app/urls.py">
       <option name="closed" value="true" />
@@ -88,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763771983256</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Definiendo Url">
+      <option name="closed" value="true" />
+      <created>1763772560306</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763772560306</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-Creando proyecto&#10;-Creando app&#10;-Creando app/urls.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Creando proyecto&#10;-Creando app&#10;-Creando app/urls.py" />
+    <MESSAGE value="Definiendo Url" />
+    <option name="LAST_COMMIT_MESSAGE" value="Definiendo Url" />
   </component>
 </project>
